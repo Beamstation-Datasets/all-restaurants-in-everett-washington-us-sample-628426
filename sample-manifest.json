@@ -1,12 +1,12 @@
 {
-  "export_job_id": "51a88221-b12f-4532-9571-312a2518bc6d",
+  "export_job_id": "c8ffb28b-df4e-4310-86fe-b1675a174b4c",
   "id_short": 628426,
-  "published_at": "2026-04-22T07:46:40Z",
+  "published_at": "2026-04-29T07:50:56Z",
   "repo_name": "all-restaurants-in-everett-washington-us-sample-628426",
   "sample_asset_name": "beamstation_628426_restaurants-us-wa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/628426/beamstation_628426_restaurants-us-wa_SAMPLE_DIST.csv",
-  "sample_records": 24,
-  "sample_sha256": "b3c65d90901c542523341087c0c7125186d68f19011883cbe58020e1b2681304",
-  "sample_size_bytes": 114326,
-  "total_records": 249
+  "sample_records": 37,
+  "sample_sha256": "91ab88e1ab4952d41d3892f88fce7e860b019ca92fb37b7c75d14d8e4144e849",
+  "sample_size_bytes": 144121,
+  "total_records": 375
 }
