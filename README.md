@@ -1,6 +1,6 @@
 # All Restaurants in Everett, Washington, US
 
-> Free BeamStation sample export with 24 rows and masked direct-contact fields.
+> Free BeamStation sample export with 37 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `628426` |
 | Location | Everett |
 | Category | Restaurants |
-| Full dataset size | 249 records |
-| Free sample size | 24 records (9.64%) |
-| Last export | 2026-04-21T22:59:36.390558+00:00 |
+| Full dataset size | 375 records |
+| Free sample size | 37 records (9.87%) |
+| Last export | 2026-04-29T02:05:10.336161+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-everett-washington-us-sample-628426/releases/download/sample-latest/beamstation_628426_restaurants-us-wa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
